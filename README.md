@@ -1,9 +1,4 @@
-
-
-
-
-
-
-
-
-# Breakout11Thigz Ike - Git Learner
+ Kunta
+# Breakout11
+Thigz Ike - Git Learner
+Levy Mwangi
